@@ -15,11 +15,12 @@
 * Git
 * VS Code
 * Figma
-* Adobe Photoshop
-* Tilda
 ## **Code example**
 ```
  const square = (num) => {
     return num *num;
   };
 ```
+## **Languages**
+* Russian - native speaker.
+* English - A1 (A2 in process…)
