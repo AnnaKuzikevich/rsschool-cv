@@ -17,3 +17,9 @@
 * Figma
 * Adobe Photoshop
 * Tilda
+## **Code example**
+```
+ const square = (num) => {
+    return num *num;
+  };
+```
