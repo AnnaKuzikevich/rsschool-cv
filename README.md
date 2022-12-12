@@ -1,1 +1,1 @@
-https://AnnaKuzikevich.github.io/rsschool-cv/
+https://AnnaKuzikevich.github.io/rsschool-cv/index.html
