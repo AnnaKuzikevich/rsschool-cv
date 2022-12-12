@@ -1,0 +1,165 @@
+:root {
+    --dark-gray-color: #505050;
+    --pink-color: #ffd6df;
+    --light-gray-color: #b2b2be;
+  }
+  html {
+    scroll-behavior: smooth; 
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .nav-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    padding: 0 20px;
+    letter-spacing: 2px;
+    line-height: 50px;
+    background-color: var(--pink-color)
+  }
+  .nav-list a {
+    width: 10px;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: var(--dark-gray-color);
+    transition: color 0.5s;
+  }
+  .nav-list a:hover {
+    background-color: var(--pink-color);
+  }
+  .container-centered {
+    margin: 20px auto;
+    width: 1024px;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    background-color: #ffffff;
+    box-shadow: 10px 10px 40px -1px rgba(0, 0, 0, 0.23);
+  }
+  .two-columns {
+    display: flex;
+  }
+  .left-column {
+    width: 42%;
+    color: var(--dark-gray-color);
+    background-color: var(--pink-color);
+  }
+  .right-column {
+    width: 58%;
+    padding: 40px;
+  }
+  header {
+    padding: 30px;
+    text-align: center;
+    background-color: #ffffff;
+  }
+  header img {
+    margin-bottom: 10px;
+    border-radius: 50%;
+  }
+  header h1 {
+    margin-bottom: 10px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: 5px;
+  }
+  header h2 {
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+  }
+  main {
+    padding: 0 20px;
+  }
+  main h3 {
+    width: 200px;
+    margin: 40px auto 20px;
+    padding: 5px 50px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #ffffff;
+    background-color: var(--dark-gray-color);
+  }
+  main li {
+    margin-bottom: 10px;
+  }
+  .contact li img {
+    vertical-align: middle;
+    margin-right: 15px;
+  }
+  .contact li{
+    list-style-type: none;
+  }
+  .contact li p {
+    display: inline;
+    vertical-align: middle;
+  }
+  .contact a {
+    text-decoration: none;
+    color: var(--dark-gray-color);
+  }
+  .languages-name {
+    font-weight: 500;
+    text-transform: uppercase;
+  }
+  .right-column h3 {
+    flex: 1;
+    vertical-align: middle;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: var(--dark-gray-color);
+    border-bottom: 2px solid var(--light-gray-color);
+  }
+  .sub-header {
+    margin-top: 30px;
+    margin-bottom: 15 px;
+  }
+  .education li {  
+    margin-top: 10px;
+    margin-bottom: 10 px;
+    margin-left: -40px;
+    list-style-type: none;  
+  }
+  .education a {
+    text-decoration: none;
+    color: #000000;
+  }
+  pre {
+    margin-top: 20px;
+    font-family: monospace;
+    font-size: 18px;
+    background-color: #f5f5f5;
+  }
+  footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 9px;
+    font-size: 15px;
+    color: #ffffff;
+    background-color: var(--dark-gray-color);
+  }
+  footer a {
+    text-decoration: none;
+    color: #ffffff;
+  } 
+  footer .github-icon {
+    margin-right: 10px;
+  }
+  .my-github {
+    display: flex;
+    align-items: center;
+  }  
+  .left-box {
+    display: flex;
+    justify-content: space-between;
+  }
