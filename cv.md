@@ -21,6 +21,8 @@
     return num *num;
   };
 ```
+## ** Experience**
+*My work in RS School https://rolling-scopes-school.github.io/annakuzikevich-JSFEPRESCHOOL2022Q4/plants/
 ## **Languages**
 * Russian - native speaker.
-* English - A1 (A2 in process…)
+* English - A2 (B1 in process…)
