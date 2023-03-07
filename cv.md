@@ -2,7 +2,7 @@
 ## **My contact info**
 * e-mail: anna.kuzikevich13@gmail.com
 * phone: +375 29 886-33-07
-* GitHab: [AnnaKuzikevich](https://github.com/AnnaKuzikevich)
+* GitHub: [AnnaKuzikevich](https://github.com/AnnaKuzikevich)
 ## **About me**
 <p>My core strengths are in problem solving and fast learning.I want to get knowledge and skills that will be enough for employment in a company.</p>
 
